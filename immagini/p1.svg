@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='720.00pt' height='495.00pt' viewBox='0 0 720.00 495.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHw0OTUuMDA='>
+    <rect x='0.00' y='0.00' width='720.00' height='495.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw0OTUuMDA=)'>
+<rect x='0.00' y='0.00' width='720.00' height='495.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNDMuOTh8NzE0LjUyfDM4Ljg1fDQ0Mi41MA=='>
+    <rect x='43.98' y='38.85' width='670.54' height='403.65' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDMuOTh8NzE0LjUyfDM4Ljg1fDQ0Mi41MA==)'>
+<rect x='43.98' y='38.85' width='670.54' height='403.65' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<line x1='43.98' y1='240.67' x2='714.52' y2='240.67' style='stroke-width: 1.28; stroke-linecap: butt;' />
+<line x1='478.95' y1='442.50' x2='478.95' y2='38.85' style='stroke-width: 1.28; stroke: #BEBEBE; stroke-dasharray: 1.71,5.12; stroke-linecap: butt;' />
+<polyline points='74.46,239.60 80.16,249.03 85.85,237.09 91.55,243.75 97.25,235.21 102.95,232.51 108.64,255.11 114.34,260.97 120.04,257.35 125.73,254.31 131.43,256.95 137.13,271.95 142.82,286.09 148.52,279.36 154.22,268.70 159.92,256.66 165.61,251.38 171.31,246.27 177.01,262.53 182.70,266.20 188.40,263.98 194.10,262.09 199.79,269.30 205.49,272.20 211.19,273.44 216.89,255.91 222.58,248.02 228.28,240.66 233.98,233.84 239.67,239.05 245.37,250.52 251.07,249.33 256.76,240.21 262.46,237.98 268.16,240.65 273.86,241.69 279.55,246.52 285.25,232.95 290.95,218.90 296.64,211.19 302.34,197.11 308.04,196.95 313.74,205.50 319.43,206.10 325.13,203.89 330.83,197.34 336.52,206.81 342.22,216.32 347.92,226.00 353.61,211.68 359.31,191.98 365.01,185.00 370.71,173.56 376.40,174.66 382.10,193.94 387.80,194.32 393.49,198.39 399.19,206.74 404.89,211.67 410.58,210.57 416.28,218.55 421.98,213.98 427.68,211.14 433.37,224.59 439.07,223.05 444.77,222.28 450.46,228.13 456.16,226.51 461.86,228.08 467.55,227.86 473.25,237.00 478.95,240.67 484.65,238.65 490.34,232.61 496.04,220.21 501.74,212.51 507.43,202.74 513.13,199.99 518.83,203.14 524.52,194.03 530.22,193.39 535.92,182.13 541.62,180.69 547.31,184.49 ' style='stroke-width: 2.56; stroke: #F2CC26; stroke-linecap: butt;' />
+<polyline points='553.01,178.11 558.71,153.51 564.40,132.16 570.10,118.29 575.80,93.64 581.50,74.40 587.19,75.86 592.89,65.75 598.59,72.50 ' style='stroke-width: 2.56; stroke: #5C8FCC; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHw0OTUuMDA=)'>
+<polyline points='43.98,442.50 43.98,38.85 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='39.05' y='427.11' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='16.05px' lengthAdjust='spacingAndGlyphs'>95.0</text>
+<text x='39.05' y='335.37' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='16.05px' lengthAdjust='spacingAndGlyphs'>97.5</text>
+<text x='39.05' y='243.63' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='20.64px' lengthAdjust='spacingAndGlyphs'>100.0</text>
+<text x='39.05' y='151.89' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='20.64px' lengthAdjust='spacingAndGlyphs'>102.5</text>
+<text x='39.05' y='60.16' text-anchor='end' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='20.64px' lengthAdjust='spacingAndGlyphs'>105.0</text>
+<polyline points='41.24,424.15 43.98,424.15 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='41.24,332.41 43.98,332.41 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='41.24,240.67 43.98,240.67 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='41.24,148.94 43.98,148.94 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='41.24,57.20 43.98,57.20 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='43.98,442.50 714.52,442.50 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='137.13,445.24 137.13,442.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='273.86,445.24 273.86,442.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='410.58,445.24 410.58,442.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='547.31,445.24 547.31,442.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<polyline points='684.04,445.24 684.04,442.50 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
+<text x='137.13' y='453.34' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='10.55px' lengthAdjust='spacingAndGlyphs'>dic</text>
+<text x='137.13' y='462.25' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2015</text>
+<text x='273.86' y='453.34' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='10.55px' lengthAdjust='spacingAndGlyphs'>dic</text>
+<text x='273.86' y='462.25' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2017</text>
+<text x='410.58' y='453.34' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='10.55px' lengthAdjust='spacingAndGlyphs'>dic</text>
+<text x='410.58' y='462.25' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2019</text>
+<text x='547.31' y='453.34' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='10.55px' lengthAdjust='spacingAndGlyphs'>dic</text>
+<text x='547.31' y='462.25' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2021</text>
+<text x='684.04' y='453.34' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='10.55px' lengthAdjust='spacingAndGlyphs'>dic</text>
+<text x='684.04' y='462.25' text-anchor='middle' style='font-size: 8.25px; fill: #4D4D4D; font-family: Arial;' textLength='18.35px' lengthAdjust='spacingAndGlyphs'>2023</text>
+<rect x='598.09' y='360.13' width='82.90' height='62.19' style='stroke-width: 1.07; stroke: none;' />
+<line x1='605.79' y1='390.42' x2='619.62' y2='390.42' style='stroke-width: 2.56; stroke: #F2CC26; stroke-linecap: butt;' />
+<line x1='605.79' y1='407.70' x2='619.62' y2='407.70' style='stroke-width: 2.56; stroke: #5C8FCC; stroke-linecap: butt;' />
+<text x='626.83' y='393.86' style='font-size: 9.62px; font-family: Arial;' textLength='47.66px' lengthAdjust='spacingAndGlyphs'>avant 2022</text>
+<text x='626.83' y='411.14' style='font-size: 9.62px; font-family: Arial;' textLength='48.19px' lengthAdjust='spacingAndGlyphs'>après 2022</text>
+<text x='43.98' y='31.05' style='font-size: 11.00px; fill: #BEBEBE; font-family: Arial;' textLength='135.51px' lengthAdjust='spacingAndGlyphs'>Base décembre 2020 = 100</text>
+<text x='43.98' y='14.93' style='font-size: 13.20px; font-weight: bold; font-family: Arial;' textLength='413.47px' lengthAdjust='spacingAndGlyphs'>Indice des prix à la consommation, en Suisse, depuis janvier 2015</text>
+<text x='714.52' y='487.91' text-anchor='end' style='font-size: 7.70px; fill: #BEBEBE; font-family: Arial;' textLength='203.90px' lengthAdjust='spacingAndGlyphs'>Source: Indice des prix à la consommation, OFS, Neuchâtel</text>
+</g>
+</svg>
