@@ -1,2 +1,2 @@
 # Pédaler dans la choucroute et IPC
-https://ericsteph.github.io/choucroute
+https://ericsteph.github.io/ipc-choucroute
