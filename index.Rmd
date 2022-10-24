@@ -702,12 +702,10 @@ class: title-slide-fin clear hide-logo
 
 # .white[.]
 
-### Contatti
-
-
 .font70[
 .pull-right2[
-.white[ ]  
+
+#### **Contatti**
 Eric Stephani  
 [eric.stephani@ti.ch](mailto:eric.stephani@ti.ch)  
 
